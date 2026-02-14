@@ -1,0 +1,96 @@
+{
+  "feature_columns": [
+    "Age",
+    "Blood_Pressure_Systolic",
+    "Heart_Rate",
+    "Temperature_F",
+    "age_group",
+    "bp_category",
+    "hr_category",
+    "has_fever",
+    "symptom_count",
+    "condition_count",
+    "gender_Female",
+    "gender_Male",
+    "gender_Other",
+    "symptom_abdominal_pain",
+    "symptom_back_pain",
+    "symptom_blurred_vision",
+    "symptom_chest_pain",
+    "symptom_cough",
+    "symptom_dizziness",
+    "symptom_fatigue",
+    "symptom_fever",
+    "symptom_headache",
+    "symptom_numbness",
+    "symptom_shortness_of_breath",
+    "symptom_sore_throat",
+    "symptom_vomiting",
+    "cond_anemia",
+    "cond_asthma",
+    "cond_diabetes",
+    "cond_heart_disease",
+    "cond_hypertension",
+    "cond_kidney_disease",
+    "cond_thyroid_disorder",
+    "cond_nan"
+  ],
+  "symptom_classes": [
+    "Abdominal Pain",
+    "Back Pain",
+    "Blurred Vision",
+    "Chest Pain",
+    "Cough",
+    "Dizziness",
+    "Fatigue",
+    "Fever",
+    "Headache",
+    "Numbness",
+    "Shortness of Breath",
+    "Sore Throat",
+    "Vomiting"
+  ],
+  "condition_classes": [
+    "Anemia",
+    "Asthma",
+    "Diabetes",
+    "Heart Disease",
+    "Hypertension",
+    "Kidney Disease",
+    "Thyroid Disorder",
+    "nan"
+  ],
+  "gender_categories": [
+    "gender_Female",
+    "gender_Male",
+    "gender_Other"
+  ],
+  "risk_classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "dept_classes": [
+    "Cardiology",
+    "Emergency",
+    "General Medicine",
+    "Neurology",
+    "Pulmonology"
+  ],
+  "numeric_features": [
+    "Age",
+    "Blood_Pressure_Systolic",
+    "Heart_Rate",
+    "Temperature_F"
+  ],
+  "model_metrics": {
+    "risk_accuracy": 0.9791666666666666,
+    "risk_cv_mean": 0.9816666666666667,
+    "risk_cv_std": 0.007728015412913104,
+    "dept_accuracy": 0.9958333333333333,
+    "dept_cv_mean": 0.9933333333333334,
+    "dept_cv_std": 0.004249182927993972
+  },
+  "training_samples": 1200,
+  "feature_count": 34
+}
