@@ -1,0 +1,172 @@
+[
+    {
+        "Patient_ID": "P-8401",
+        "Age": 62,
+        "Gender": "Male",
+        "Symptoms": [
+            "Chest Pain",
+            "Shortness of Breath",
+            "Sweating"
+        ],
+        "Blood Pressure": "185/110",
+        "Heart Rate": 105,
+        "Temperature": 98.6,
+        "Pre-Existing Conditions": [
+            "Hypertension",
+            "Type 2 Diabetes"
+        ],
+        "Notes": "Patient describes crushing chest pain radiating to the left arm."
+    },
+    {
+        "Patient_ID": "P-8402",
+        "Age": 28,
+        "Gender": "Female",
+        "Symptoms": [
+            "Severe Headache",
+            "Blurred Vision",
+            "Neck Stiffness"
+        ],
+        "Blood Pressure": "130/85",
+        "Heart Rate": 88,
+        "Temperature": 101.2,
+        "Pre-Existing Conditions": [
+            "Migraine"
+        ],
+        "Notes": "Sudden onset of 'worst headache of life'. Photophobia present."
+    },
+    {
+        "Patient_ID": "P-8403",
+        "Age": 71,
+        "Gender": "Male",
+        "Symptoms": [
+            "Confusion",
+            "Slurred Speech",
+            "Right-sided Weakness"
+        ],
+        "Blood Pressure": "170/95",
+        "Heart Rate": 72,
+        "Temperature": 98.4,
+        "Pre-Existing Conditions": [
+            "Atrial Fibrillation"
+        ],
+        "Notes": "Family reports patient became suddenly unable to hold a spoon."
+    },
+    {
+        "Patient_ID": "P-8404",
+        "Age": 45,
+        "Gender": "Female",
+        "Symptoms": [
+            "Cough",
+            "Fever",
+            "Fatigue"
+        ],
+        "Blood Pressure": "120/80",
+        "Heart Rate": 92,
+        "Temperature": 102.5,
+        "Pre-Existing Conditions": [
+            "Asthma"
+        ],
+        "Notes": "Dry cough for 3 days. Difficulty catching breath after walking."
+    },
+    {
+        "Patient_ID": "P-8405",
+        "Age": 19,
+        "Gender": "Male",
+        "Symptoms": [
+            "Severe Abdominal Pain",
+            "Nausea",
+            "Loss of Appetite"
+        ],
+        "Blood Pressure": "115/75",
+        "Heart Rate": 98,
+        "Temperature": 100.8,
+        "Pre-Existing Conditions": [
+            "None"
+        ],
+        "Notes": "Pain started near belly button, now moved to lower right side."
+    },
+    {
+        "Patient_ID": "P-8406",
+        "Age": 54,
+        "Gender": "Female",
+        "Symptoms": [
+            "Palpitations",
+            "Dizziness",
+            "Anxiety"
+        ],
+        "Blood Pressure": "145/90",
+        "Heart Rate": 128,
+        "Temperature": 98.9,
+        "Pre-Existing Conditions": [
+            "Thyroid Disorder"
+        ],
+        "Notes": "Feeling of 'heart skipping beats' started while resting."
+    },
+    {
+        "Patient_ID": "P-8407",
+        "Age": 82,
+        "Gender": "Male",
+        "Symptoms": [
+            "Frequent Urination",
+            "Extreme Thirst",
+            "Confusion"
+        ],
+        "Blood Pressure": "110/70",
+        "Heart Rate": 95,
+        "Temperature": 97.8,
+        "Pre-Existing Conditions": [
+            "Diabetes"
+        ],
+        "Notes": "Patient appears dehydrated and lethargic."
+    },
+    {
+        "Patient_ID": "P-8408",
+        "Age": 33,
+        "Gender": "Female",
+        "Symptoms": [
+            "Leg Pain",
+            "Swelling",
+            "Redness"
+        ],
+        "Blood Pressure": "125/82",
+        "Heart Rate": 80,
+        "Temperature": 99.1,
+        "Pre-Existing Conditions": [
+            "Post-Surgery (Knee)"
+        ],
+        "Notes": "Right calf is warm to the touch and significantly swollen."
+    },
+    {
+        "Patient_ID": "P-8409",
+        "Age": 9,
+        "Gender": "Female",
+        "Symptoms": [
+            "Wheezing",
+            "Chest Tightness"
+        ],
+        "Blood Pressure": "100/65",
+        "Heart Rate": 110,
+        "Temperature": 98.4,
+        "Pre-Existing Conditions": [
+            "Asthma"
+        ],
+        "Notes": "Inhaler used twice with no relief. Difficulty speaking in full sentences."
+    },
+    {
+        "Patient_ID": "P-8410",
+        "Age": 67,
+        "Gender": "Male",
+        "Symptoms": [
+            "Back Pain",
+            "Abdominal Pulsation"
+        ],
+        "Blood Pressure": "155/95",
+        "Heart Rate": 78,
+        "Temperature": 98.2,
+        "Pre-Existing Conditions": [
+            "Smoker",
+            "Atherosclerosis"
+        ],
+        "Notes": "Sharp, tearing pain in the lower back and abdomen."
+    }
+]
